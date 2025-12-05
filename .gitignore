@@ -1,0 +1,22 @@
+# Compiled classes
+out/
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# Test outputs
+filtered_*.pcap
+output.pcap
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven (if needed in future)
+target/
+pom.xml
