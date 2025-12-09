@@ -31,3 +31,4 @@
 [2025-12-06 11:10:00] added support for parsing PCAP headers
 [2025-12-07 09:25:00] implemented raw packet reader
 [2025-12-08 14:05:00] worked on Ethernet and IP packet parsing
+[2025-12-09 16:20:00] added five tuple flow tracking model
