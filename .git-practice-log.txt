@@ -33,3 +33,4 @@
 [2025-12-08 14:05:00] worked on Ethernet and IP packet parsing
 [2025-12-09 16:20:00] added five tuple flow tracking model
 [2025-12-10 12:40:00] improved connection tracking and state handling
+[2025-12-11 15:15:00] added DNS extraction from packets
