@@ -34,3 +34,4 @@
 [2025-12-09 16:20:00] added five tuple flow tracking model
 [2025-12-10 12:40:00] improved connection tracking and state handling
 [2025-12-11 15:15:00] added DNS extraction from packets
+[2025-12-12 10:30:00] implemented HTTP host parsing
