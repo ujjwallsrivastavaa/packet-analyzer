@@ -36,3 +36,4 @@
 [2025-12-11 15:15:00] added DNS extraction from packets
 [2025-12-12 10:30:00] implemented HTTP host parsing
 [2025-12-13 13:10:00] added TLS SNI extraction support
+[2025-12-15 09:45:00] worked on packet blocking rules for domains and IPs
