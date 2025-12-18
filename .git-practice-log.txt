@@ -38,3 +38,4 @@
 [2025-12-13 13:10:00] added TLS SNI extraction support
 [2025-12-15 09:45:00] worked on packet blocking rules for domains and IPs
 [2025-12-16 11:35:00] added filtered packet export to PCAP
+[2025-12-18 14:15:00] improved DPI processing with worker threads
