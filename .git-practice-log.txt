@@ -40,3 +40,4 @@
 [2025-12-16 11:35:00] added filtered packet export to PCAP
 [2025-12-18 14:15:00] improved DPI processing with worker threads
 [2025-12-19 16:05:00] optimized packet processing with load balancing
+[2025-12-21 10:20:00] added embedded web server for analyzer access
