@@ -41,3 +41,4 @@
 [2025-12-18 14:15:00] improved DPI processing with worker threads
 [2025-12-19 16:05:00] optimized packet processing with load balancing
 [2025-12-21 10:20:00] added embedded web server for analyzer access
+[2025-12-22 17:00:00] built upload and analysis results page
