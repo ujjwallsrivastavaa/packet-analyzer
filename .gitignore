@@ -1,6 +1,8 @@
 # Compiled classes
 out/
 *.class
+bin/
+build/
 
 # IDE
 .vscode/
@@ -8,15 +10,41 @@ out/
 *.iml
 *.swp
 *.swo
+*.sublime-project
+*.sublime-workspace
 
-# Test outputs
-filtered_*.pcap
-output.pcap
+# Build tools
+target/
+gradle/
+.gradle/
+
+# Test outputs & logs
+*.pcap
+*.log
+.git-practice-log.txt
 
 # OS
 .DS_Store
 Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 
-# Maven (if needed in future)
-target/
-pom.xml
+# Java specific
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+
+# Docker
+.dockerignore
+
+# Maven
+.mvn/
+
+# License files
+LICENSE
